@@ -1,2 +1,2 @@
 #!/bin/bash
-'ls -la | sort --output= ls_cwd_content
+'ls -la | sort --output= ls_cwd_content > ls_cwd_content
