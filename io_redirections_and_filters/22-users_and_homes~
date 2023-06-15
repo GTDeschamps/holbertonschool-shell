@@ -1,0 +1,2 @@
+#!/bin/bash
+find /etc/passwd |cut -f usr home
